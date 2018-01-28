@@ -1,0 +1,63 @@
+Printing sentence tokens vs sentence POS tags for comparison:
+
+Anglo - French Channel Tunnel operator Eurotunnel Monday announced a deal giving its creditor banks 45 . 5 percent of the company in return for wiping out one billion pounds ( $ 1 . 56 billion ) of its debt . 
+SYM : JJ NNP NNP NN NNP NNP VBD DT NN VBG PRP$ NN NNS CD . CD NN IN DT NN IN NN IN VBG RP CD CD NNS -LRB- $ CD . CD CD -RRB- IN PRP$ NN . 
+
+The long - awaited restructuring brings to an end months of wrangling between Eurotunnel and the 225 banks to which it owes nearly nine billion pounds ( $ 14 . 1 billion ) . 
+DT JJ : VBD VBG VBZ TO DT NN NNS IN VBG IN NNP CC DT CD NNS TO WDT PRP VBZ RB CD CD NNS -LRB- $ CD . CD CD -RRB- . 
+
+The deal , announced simultaneously in Paris and London , brings the company back from the brink of insolvency but leaves shareholders owning only 54 . 5 percent of the company . 
+DT NN , VBD RB IN NNP CC NNP , VBZ DT NN RB IN DT NN IN NN CC VBZ NNS VBG RB CD . CD NN IN DT NN . 
+
+" The restructuring plan provides Eurotunnel with the medium - term financial stability to allow it to consolidate its substantial commercial achievements to date and to develop its operations , " Eurotunnel co - chairman Alastair Morton said . 
+`` DT VBG NN VBZ `` IN DT NN : NN JJ NN TO VB PRP TO VB PRP$ JJ JJ NNS TO VB CC TO VB PRP$ NNS , '' NNP # : NN NNP NNP VBD . 
+
+The firm was now making a profit before interest , he added . 
+DT NN VBD RB VBG DT NN IN NN , PRP VBD . 
+
+Although shareholders will see their interests diluted , they were offered the prospect of a brighter future after months of uncertainty while Eurotunnel wrestled to reduce crippling interest payments negotiated during the tunnel ' s construction . 
+IN NNS MD VB PRP$ NNS VBN , PRP VBD VBN DT NN IN DT JJR NN IN NNS IN NN IN NNP VBD TO VB JJ NN NNS VBN IN DT NN '' VBZ NN . 
+
+Eurotunnel , which has taken around half the cross - Channel market from the European ferry companies , said a strong operating performance could allow it to pay its first dividend within the next 10 years . 
+NN , WDT VBZ VBN RP PDT DT NN : NNP NN IN DT JJ NN NNS , VBD DT JJ NN NN MD VB PRP TO VB PRP$ JJ NN IN DT JJ CD NNS . 
+
+French co - chairman Patrick Ponsolle said shareholders would have to be patient before they could reap the benefits of the company ' s success . 
+JJ `` : NN NNP NNP VBD NNS MD VB TO VB JJ IN PRP MD VB DT NNS IN DT NN '' VBZ NN . 
+
+He called the debt restructuring plan " an acceptable compromise " for holders of Eurotunnel shares . 
+PRP VBD DT NN NN NN `` DT JJ NN `` IN NNS IN NNP NNS . 
+
+The company said there was still considerable work to be done to finalise and agree on the details of the plan before it can be submitted to shareholders and the full 225 bank syndicate for approval , probably early in 1997 . 
+DT NN VBD EX VBD RB JJ NN TO VB VBN TO VB CC VB IN DT NNS IN DT NN IN PRP MD VB VBN TO NNS CC DT JJ CD NN NN IN NN , RB RB IN CD . 
+
+Monday ' s announcement followed two weeks of highly secretive negotiations between Eurotunnel and its six leading banks . 
+NNP '' VBZ NN VBD CD NNS IN RB JJ NNS IN NNP CC PRP$ CD VBG NNS . 
+
+This was extended to the 24 " instructing banks " at a meeting late last week in London . 
+DT VBD VBN TO DT CD `` `` NNS `` IN DT NN JJ JJ NN IN NNP . 
+
+Eurotunnel said the debt - for - equity swap would be at 130 pence , or 10 . 40 francs , per share . 
+NNP VBD DT NN : IN : NN NN MD VB IN CD NN , CC CD . CD NNS , IN NN . 
+
+That is considerably below the level of around 160 pence widely reported before announcement of the deal , and will reduce outstanding debt of 8 . 7 billion pounds ( $ 13 . 6 billion ) by 1 . 0 billion ( $ 1 . 56 billion ) . 
+DT VBZ RB IN DT NN IN IN CD NN RB VBN IN NN IN DT NN , CC MD VB JJ NN IN CD . CD CD NNS -LRB- $ CD . CD CD -RRB- IN CD . CD CD -LRB- $ CD . CD CD -RRB- . 
+
+The company said a further 3 . 7 billion pounds ( $ 5 . 8 billion ) of debt would be converted into new financial instruments and existing shareholders would be able to participate in this issue . 
+DT NN VBD DT JJ CD . CD CD NNS -LRB- $ CD . CD CD -RRB- IN NN MD VB VBN IN JJ JJ NNS CC VBG NNS MD VB JJ TO VB IN DT NN . 
+
+If they choose not to take up free warrants entitling them to subscribe to this , Eurotunnel said shareholders ' interests may be reduced further to just over 39 percent of the company by the end of December 2003 . 
+IN PRP VBP RB TO VB RP JJ NNS VBG PRP TO VB TO DT , NNP VBD NNS POS NNS MD VB VBN JJ TO RB IN CD NN IN DT NN IN DT NN IN NNP CD . 
+
+Eurotunnel ' s shares , which were suspended last week at 113 . 5 pence ahead of Monday ' s announcement , should resume trading on Tuesday , the company said . 
+NN '' VBZ NNS , WDT VBD VBN JJ NN IN CD . CD NN RB IN NNP '' VBZ NN , MD VB VBG IN NNP , DT NN VBD . 
+
+
+
+
+Starting Name and Location search...
+
+Locations Found: 
+Paris, London, Channel, London, 
+
+Names Found: 
+Alastair Morton, Patrick Ponsolle, 
