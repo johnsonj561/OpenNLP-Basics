@@ -170,7 +170,7 @@ public class NlpUtils {
 	public void printStringArray(String[] arr) {
 		String result = "";
 		for(int i = 0, n = arr.length; i < n; i++) {
-			result += arr[i] + " ";
+			result += arr[i] + ", ";
 		}
 		System.out.println(result);
 	}

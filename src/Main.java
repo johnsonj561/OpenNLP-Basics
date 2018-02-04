@@ -24,12 +24,16 @@ public class Main {
 		
 	  // split input file content into array of sentences
       String[] sentences = nlpUtils.detectSentences(INPUT_PATH);
+      System.out.println("\n\nPrinting detected sentences:");
+      for(int i = 0, n = sentences.length; i < n; i++) {
+    	  	System.out.println("\n" + sentences[i]);
+      }
 
       // we iterate over each sentence and complete 3 tasks per iteration:
       // 1: create 2D array that contains an array of tokens for each sentence
       // 2: create 2D array that contains an array of POSTags for each sentence
       // 3. print sentence tokens and POS Tags to console for inspection  
-      System.out.println("\nPrinting sentence tokens vs sentence POS tags for comparison:\n\n");
+      System.out.println("\n\nPrinting sentence tokens vs sentence POS tags for comparison:\n\n");
       int sentenceCount = sentences.length;
       String[][] tokenizedSentences = new String[sentenceCount][];
       String[][] posTaggedSentences = new String[sentenceCount][];
@@ -42,7 +46,7 @@ public class Main {
       }
       
   
-      // next we will search each string for Name and Locaton entities
+      // next we will search each string for Name and Location entities
       System.out.println("Starting Name and Location search...");
       String[][] locations = new String[sentenceCount][];
       String[][] people = new String[sentenceCount][];
